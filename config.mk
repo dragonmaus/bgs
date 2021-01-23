@@ -4,7 +4,7 @@ VERSION = 0.8
 # Customize below to fit your system
 
 # paths
-PREFIX = /usr/local
+PREFIX = ${HOME}/.local
 MANPREFIX = ${PREFIX}/share/man
 
 # Xinerama, comment if you don't want it
